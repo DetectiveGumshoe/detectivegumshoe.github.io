@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Callum Kwan"
-  avatar : "larrypog.jpg"
+  avatar : "/assets/images/larrypog.jpg"
   bio    : "I love computer science."
   links:
     - label: "Twitter"
