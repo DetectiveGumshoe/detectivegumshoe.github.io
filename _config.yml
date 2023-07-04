@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Home
+title: Callum Kwan
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to this space where I will be posting very regularly on all things Computer Science.
-  I also dabble in Clash Royale and League of Legends.
-  My strategies may be posted.
+  A place where you can explore my thoughts, opinions and anything I am interested in. 
 twitter_username: callum_kwan
 github_username: detectivegumshoe
-minimal_mistakes_skin: air
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
@@ -85,7 +83,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
